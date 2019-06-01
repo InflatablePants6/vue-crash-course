@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,s){"use strict";s.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},i=[function(){var t=this,e=t.$createElement,s=t._self._c||e;return s("div",{staticClass:"about"},[s("h1",[t._v("About")]),s("p",[t._v("This is the world's most pointless site")])])}],l=s("2877"),o={},u=Object(l["a"])(o,n,i,!1,null,null,null);e["default"]=u.exports}}]);
+//# sourceMappingURL=about.132fed18.js.map
